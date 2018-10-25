@@ -23,6 +23,7 @@
 
     </com.jersay.foldlayout.FoldDrawerLayout>
 ```
+    或者
 ```
     <com.jersay.foldlayout.FoldSlidingPanelLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
