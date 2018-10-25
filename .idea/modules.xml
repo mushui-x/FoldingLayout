@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FoldingLayout.iml" filepath="$PROJECT_DIR$/FoldingLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foldlayout/foldlayout.iml" filepath="$PROJECT_DIR$/foldlayout/foldlayout.iml" />
+    </modules>
+  </component>
+</project>
