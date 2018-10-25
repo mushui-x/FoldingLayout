@@ -7,9 +7,32 @@
 ### Use
 #### 1、引入依赖
 ```
-        implementation ''
+        implementation 'com.jersay.android:foldlayout:1.0.1'
 ```
-#### 2、在XML中添加view
+#### 2、在XML中引入view
 ```
-       
+    <com.jersay.foldlayout.FoldDrawerLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SlidingPanelLayoutSampleActivity">
+
+    ...
+
+    </com.jersay.foldlayout.FoldDrawerLayout>
+```
+```
+    <com.jersay.foldlayout.FoldSlidingPanelLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SlidingPanelLayoutSampleActivity">
+
+    ...
+
+    </com.jersay.foldlayout.FoldDrawerLayout>
 ```
